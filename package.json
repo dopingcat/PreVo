@@ -2,7 +2,7 @@
   "name": "PreVo",
   "version": "0.0.0",
   "description": "PreVo",
-  "main": "hello.js",
+  "main": "app.js",
   "author": {
     "name": "Vwan",
     "email": "dopingcat@nate.com"
